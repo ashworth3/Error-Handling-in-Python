@@ -1,6 +1,4 @@
 # Python Error Handling
-
-## Overview
 - This Python program demonstrates how to handle different types of errors and exceptions.
 
 ### Task 1: Understanding Python Exceptions
